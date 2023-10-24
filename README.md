@@ -61,3 +61,11 @@
 </div>
 
 ###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiamareswar&show_icons=true&locale=en&layout=compact" alt="saiamareswar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiamareswar&show_icons=true&locale=en" alt="saiamareswar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiamareswar&" alt="saiamareswar" /></p>
+
+###
